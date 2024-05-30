@@ -1,0 +1,67 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="PE" tvg-name="L1 MAX" tvg-logo="https://i.imgur.com/tbBpu3L.png" group-title="Deportes",L1 MAX
+http://cincotv.org:25461/Fermand693/Toapa475/81984
+
+#EXTINF:-1 tvg-id="PE" tvg-name="GOL PERU" tvg-logo="https://i.pinimg.com/originals/74/6a/23/746a2351b447660e738281490be3b50e.png" group-title="Deportes,GOL PERU 
+http://cincotv.org:25461/Fermand693/Toapa475/186821
+
+#EXTINF:-1 xui-id="8212" tvg-id="" tvg-name="ARG: ESPN" tvg-logo="http://m3u8.sytes.net:80/images/QCqX5p5x3Y181Q8jwb82JHKLGAn2IRuIXzdkkjPeobGYsS_GybkZ6M9YGRETjPHQ-kkMDxFVRoAnv_srUTKp2g.png" group-title="argentina",ARG: ESPN
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaFWSRWx5VehSSIzVHWCXNOc/ts
+#EXTINF:-1 xui-id="8213" tvg-id="" tvg-name="ARG: ESPN 2" tvg-logo="http://m3u8.sytes.net:80/images/QCqX5p5x3Y181Q8jwb82JC5f7Z5O_VyzIOhyS-hy2ishnidYAv7DlVT4twwU5DY-.png" group-title="argentina",ARG: ESPN 2
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaH-RJOtuKflZqZnOTVf0MjY/ts
+#EXTINF:-1 xui-id="8214" tvg-id="" tvg-name="ARG: ESPN 3" tvg-logo="http://m3u8.sytes.net:80/images/QCqX5p5x3Y181Q8jwb82JMV4wlKBym_xcN4mi0gZilmELfTGxze9iIOzU3GMVswL.png" group-title="argentina",ARG: ESPN 3
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaIAWwIC1t0L0_ilB43gedyw/ts
+#EXTINF:-1 xui-id="8215" tvg-id="" tvg-name="ARG: ESPN 4" tvg-logo="http://m3u8.sytes.net:80/images/QCqX5p5x3Y181Q8jwb82JPuMQ8DFgRN9nofc7xj2hcburjKOORQ_ZPKNGkvRr6KhyN95ZFJuB761aGZwTks3lg.png" group-title="argentina",ARG: ESPN 4
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaPgoL6UpI3LAwlIwR6dR_NU/ts
+#EXTINF:-1 xui-id="8216" tvg-id="" tvg-name="ARG: ESPN PREMIUM" tvg-logo="http://m3u8.sytes.net:80/images/QCqX5p5x3Y181Q8jwb82JEUOPayAnF4kQoWLsEGZOK8hYvUyHjWS-Vd2TdrrIl9a.png" group-title="argentina",ARG: ESPN PREMIUM
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaH4wWBJoYGBs4aI_iKYiLkY/ts
+#EXTINF:-1 xui-id="8217" tvg-id="" tvg-name="ARG: FOX SPORTS" tvg-logo="http://m3u8.sytes.net:80/images/QCqX5p5x3Y181Q8jwb82JK9zbONyoWNiFce1QWSq4ZMLtywlSFDUb5m9SBGzwX-JoBw7ooMd6rOhwKfo1K4vtA.png" group-title="argentina",ARG: FOX SPORTS
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaNsOVz3ooSbzNWzrkKRTxTg/ts
+#EXTINF:-1 xui-id="8218" tvg-id="" tvg-name="ARG: FOX SPORTS 2" tvg-logo="http://m3u8.sytes.net:80/images/QCqX5p5x3Y181Q8jwb82JC-jRUxW2h5eYEfceaBc1_NHjALQbNxk2gVo3KbGc7jKvMQ_EOOsX811L-LBpElQE2ztoxL-o116edSgajOnFYs.png" group-title="argentina",ARG: FOX SPORTS 2
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaBt2kgBm7OMdM4w97EttgrY/ts
+#EXTINF:-1 xui-id="8220" tvg-id="" tvg-name="ARG: T&C SPORTS" tvg-logo="http://m3u8.sytes.net:80/images/QCqX5p5x3Y181Q8jwb82JEwxaxL3XuDYeVLnwSK5xu9cYaqosySVbRqgYYFGFbjQ2dgVSUJJkj-YKkzLWX8Ksw.png" group-title="argentina",ARG: T&C SPORTS
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaLILIolgnQXDZGtFgB3xoHI/ts
+#EXTINF:-1 xui-id="8221" tvg-id="" tvg-name="ARG: TNT SPORTS" tvg-logo="http://m3u8.sytes.net:80/images/QCqX5p5x3Y181Q8jwb82JExAIDUWpu5x6fTc2j6mmML7cxK-u3F18vg-dDoNzvr3.png" group-title="argentina",ARG: TNT SPORTS
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaP_hnsyf--Ms9IN_q-su1lc/ts
+
+#EXTINF:-1 xui-id="2252" tvg-id="" tvg-name="LAT: T&C Sports" tvg-logo="http://m3u8.sytes.net:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjuzcgb9yyY_j7AIaOGW4uGkD6uBvBrU1yewTYkwt1RuABvPGozEwTdqKarIVLeZn6eHFKIKl6nLd9XB1EZunALw.png" group-title="Latina",LAT: T&C Sports
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaFWkDdXo30k9vL_e63rA3AQ/ts
+#EXTINF:-1 xui-id="6059" tvg-id="DEPORHA" tvg-name="LAT: DeporTv" tvg-logo="http://m3u8.sytes.net:80/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwJQJiuKwRwBboYpo9xUkemr.png" group-title="Latina",LAT: DeporTv
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaJ_F-BFd6EVZ4KOXLBwOtmU/ts
+#EXTINF:-1 xui-id="2254" tvg-id="" tvg-name="LAT: SportsTVPlus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREp3AZs3O7gmt2i4wUyONJ71X-MD21d2yiMJE-bhsAD5X232fXuhBNAW63w-FItGj-KX4&usqp=CAU" group-title="Latina",LAT: SportsTVPlus
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaOiIsiZgo1v-rO-mJS7Yz8k/ts
+#EXTINF:-1 xui-id="2257" tvg-id="" tvg-name="LAT: TUDN" tvg-logo="http://m3u8.sytes.net:80/images/Bp-vRtZEje6kFpdMZzWxZ4-AN4DvFfO8YD6hbBnDZg8tkf7hBRh2R8Q5zKJVMacSRnqncuK1D-0y4LJAPnmYK7eCFCh2qzGLyfRllgm2jVE.png" group-title="Latina",LAT: TUDN
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaNrPfPLIPM-NckIwFwhPPww/ts
+#EXTINF:-1 xui-id="7542" tvg-id="" tvg-name="LAT: TUDN Mex" tvg-logo="http://m3u8.sytes.net:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJj4wHDQ4MEC7WSVlz3MmJ9azu-SYwndEWHHmLrActKtYFGHWUsLO8WpRDhjG3L5xeWRX8y9yYwJ5L4Xy5-xEdQBg.png" group-title="Latina",LAT: TUDN Mex
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaAp2YI2ahS0YDYCdrl2sqwE/ts
+#EXTINF:-1 xui-id="2260" tvg-id="" tvg-name="LAT: ESPN" tvg-logo="http://m3u8.sytes.net:80/images/Z9P7BwxXlTl-k8RLQ286tO_w-EfdZtTWRCj2vjjXcPP8O8yGNxnIHaWTmqSiQNE-XSMT1DieptEkl0c2K0Om8bYBOUf8mzRn5KB4tgvhI5AzF9DzYjIg8TaBzo2D1nfZbz5IfbEjQYauS7UO7UrktuQbHKOU4Fwhb-y5C75-OhM.png" group-title="Latina",LAT: ESPN
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaH8Oow3XYguZBZiAW00DKzA/ts
+#EXTINF:-1 xui-id="2948" tvg-id="" tvg-name="LAT: ESPN 2" tvg-logo="http://m3u8.sytes.net:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjPclt1w2_zyt_7WTvcH65cc8me1GbII6PV3ITWzPHuv0hunTU8NGVjw-hbRdueZRQJsW4CAyCgeHxC50bDTveow.png" group-title="Latina",LAT: ESPN 2
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaGaQFqjmJeA6GJL4r0sSmSM/ts
+#EXTINF:-1 xui-id="2949" tvg-id="" tvg-name="LAT: ESPN 3" tvg-logo="http://m3u8.sytes.net:80/images/Z9P7BwxXlTl-k8RLQ286tKhguZIcysJCOF2JvPlIJSvuQVaAD031bq7Xcfut3WeO4DnChGS3hbiTLdbyttU3dJjge4PxOg4WN3n68gU8fkAw7BPv0zasGmsrRhbrJ8QajMCiju337XwhTip1lfIE9bDe0e4V2CsTJ2HbB2etVTI.png" group-title="Latina",LAT: ESPN 3
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaFMqDpL8mwuqGoLDDM-7oX8/ts
+#EXTINF:-1 xui-id="7857" tvg-id="" tvg-name="LAT: ESPN 4" tvg-logo="http://m3u8.sytes.net:80/images/QCqX5p5x3Y181Q8jwb82JLBUZJkYFEAwwDkhbXapqw7DYaIwImKYSCS2pRxrPcdG21-k9ZxhB2pqfptECj-D5U2J2CB8D_KetPiBKXwTicg.png" group-title="Latina",LAT: ESPN 4
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaHmZFQG2kVgE9ahms1Ls3ZM/ts
+#EXTINF:-1 xui-id="6119" tvg-id="" tvg-name="LAT: ESPN Premium" tvg-logo="http://m3u8.sytes.net:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXVM4lEjCBXXlFWoZvOYlZ3mxBrdEaRdj2bXWzJGl3tSk0CaKS5LxjY836A6oRC1ko.png" group-title="Latina",LAT: ESPN Premium
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaOvWaQb5-DfgJdRsdnRPKHo/ts
+#EXTINF:-1 xui-id="6120" tvg-id="" tvg-name="LAT: TNT Sports" tvg-logo="http://m3u8.sytes.net:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJj7V8gouTVGnqniazDwKoUta_m5dxwik7LTcxwbCHfjEozcJFdMfugWDi-OD2K8eYkvmz_wZ7uUsqnzR6cxWYwi1qwBgGnCBpMJcgN4Hmx2ao.png" group-title="Latina",LAT: TNT Sports
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaPeew6LoTGj_xLbCRsxFUGU/ts
+#EXTINF:-1 xui-id="7552" tvg-id="" tvg-name="LAT: GOL Peru" tvg-logo="http://m3u8.sytes.net:80/images/QCqX5p5x3Y181Q8jwb82JFa1AnnDt9VuwnkKAqXOd5Eu7tesdT_-utCPLB7ynjSH.png" group-title="Latina",LAT: GOL Peru
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaFDWWYvu9gExbuT1MarCBJQ/ts
+#EXTINF:-1 xui-id="7553" tvg-id="" tvg-name="LAT: CLARO SPORTS" tvg-logo="http://m3u8.sytes.net:80/images/QCqX5p5x3Y181Q8jwb82JHw6exkotPY9S3WyCP0KM1_w8j--S9TKct7qJLXeM4B6TjDVDkJ8jVIQ0EqypFEE7Q.png" group-title="Latina",LAT: CLARO SPORTS
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaByHxfY0XCDObwyxK67SC0I/ts
+#EXTINF:-1 xui-id="7554" tvg-id="" tvg-name="LATt: CLARO SPORTS 2" tvg-logo="http://m3u8.sytes.net:80/images/QCqX5p5x3Y181Q8jwb82JPl3uStNtgytH4H5bFf0BR86yRKRuhdYKg0fY6yqLnXcguFM-9ITNDjKA4zpXpSnnLoDw0Qb2XZg8_1rqcVNZi2vSyh4vNGEEvLxfZqvuqLw.png" group-title="Latina",LATt: CLARO SPORTS 2
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaLB3QA5PrzvjpeXbxfk9lrw/ts
+#EXTINF:-1 xui-id="7555" tvg-id="" tvg-name="LAT: MOVISTAR DEPORTES" tvg-logo="http://m3u8.sytes.net:80/images/QCqX5p5x3Y181Q8jwb82JLuPEAP4w73qiGpS-ebcPO-4WyDphptZw_HpfJvXfjtY.png" group-title="Latina",LAT: MOVISTAR DEPORTES
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaD0azE5set7MKca4attzM_0/ts
+#EXTINF:-1 xui-id="8146" tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="" group-title="LATINA1",ESPN 2 HD
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaJnK01JpGUNZc6HywoSB9Lg/ts
+#EXTINF:-1 xui-id="8147" tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="" group-title="LATINA1",ESPN 3 HD
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaFpUyZpHMSvGGEnURLXcTLw/ts
+#EXTINF:-1 xui-id="8148" tvg-id="" tvg-name="ESPN 4 HD" tvg-logo="" group-title="LATINA1",ESPN 4 HD
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaAbd9PoJyIyId2VLfoiVgpg/ts
+#EXTINF:-1 xui-id="8149" tvg-id="" tvg-name="ESPN EXTRA HD" tvg-logo="" group-title="LATINA1",ESPN EXTRA HD
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaIYbWJ015nqXWGq2aPCdObU/ts
+#EXTINF:-1 xui-id="8150" tvg-id="" tvg-name="ESPN HD" tvg-logo="" group-title="LATINA1",ESPN HD
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaFSm1sUfiF95EvfsCcP5Heg/ts
