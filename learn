@@ -1,3 +1,37 @@
 #EXTM3U
 
-Working progress
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Nacionales",Latina
+https://live-evg4.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Nacionales",RPP TV
+http://cincotv.org:25461/Fermand693/Toapa475/186830
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Nacionales",America
+https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Nacionales",Panamericana
+https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Nacionales",Exitosa
+https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Nacionales",TV Peru
+https://live-evg4.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Nacionales",TV Peru Noticias
+http://bantel.iptvperu.tv:1935/transcoder_t1/tvperunoticias_t1/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Nacionales",Willax
+https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Nacionales",ATV
+http://bantel.iptvperu.tv:1935/transcoder_t6/atvmovil_t6.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Nacionales",ATV+
+http://bantel.iptvperu.tv:1935/transcoder_t1/atvnoticias_t1/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Nacionales",Global
+http://bantel.iptvperu.tv:1935/transcoder_t1/global_t1/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Nacionales",IPE
+http://bantel.iptvperu.tv:1935/transcoder_t1/ipe_t1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Deportes",Ovacion
+https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Deportes",Nativa
+https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Deportes",L1 MAX
+http://elperrotv.online:80/Rolando/123456/1070264
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Deportes",GOL PERU
+http://cincotv.org:25461/Fermand693/Toapa475/186821
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Deportes",M Deportes
+http://cincotv.org:25461/Fermand693/Toapa475/186832
