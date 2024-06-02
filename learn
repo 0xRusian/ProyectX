@@ -1,26 +1,26 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Nacionales",Latina
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/GHFsYxm.png" group-title="Nacionales",Latina
 https://live-evg4.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Nacionales",RPP TV
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/d1k9E8t.png" group-title="Nacionales",RPP TV
 http://cincotv.org:25461/Fermand693/Toapa475/186830
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Nacionales",America
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/Y1xXQXq.png" group-title="Nacionales",America
 https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Nacionales",Panamericana
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/feuYgRX.png" group-title="Nacionales",Panamericana
 https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Nacionales",Exitosa
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/U5K2F2F.png" group-title="Nacionales",Exitosa
 http://cincotv.org:25461/Fermand693/Toapa475/139709
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Nacionales",TV Peru
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/2H1ALro.png" group-title="Nacionales",TV Peru
 https://live-evg4.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Nacionales",TV Peru Noticias
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/7uLOxub.png" group-title="Nacionales",TV Peru Noticias
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Nacionales",Willax
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/jBroGuj.png" group-title="Nacionales",Willax
 https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Nacionales",ATV
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/SMh9v1A.png" group-title="Nacionales",ATV
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Nacionales",ATV+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/1KKS34I.png" group-title="Nacionales",ATV+
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Nacionales",IPE
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/PbSF4HJ.png" group-title="Nacionales",IPE
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Deportes",Ovacion
