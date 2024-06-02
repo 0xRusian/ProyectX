@@ -9,21 +9,19 @@ https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Nacionales",Panamericana
 https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Nacionales",Exitosa
-https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8
+http://cincotv.org:25461/Fermand693/Toapa475/139709
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Nacionales",TV Peru
 https://live-evg4.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Nacionales",TV Peru Noticias
-http://bantel.iptvperu.tv:1935/transcoder_t1/tvperunoticias_t1/playlist.m3u8
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Nacionales",Willax
 https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Nacionales",ATV
-http://bantel.iptvperu.tv:1935/transcoder_t6/atvmovil_t6.stream/playlist.m3u8
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Nacionales",ATV+
-http://bantel.iptvperu.tv:1935/transcoder_t1/atvnoticias_t1/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Nacionales",Global
-http://bantel.iptvperu.tv:1935/transcoder_t1/global_t1/playlist.m3u8
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Nacionales",IPE
-http://bantel.iptvperu.tv:1935/transcoder_t1/ipe_t1/playlist.m3u8
+https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Deportes",Ovacion
 https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
