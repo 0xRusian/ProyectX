@@ -82,4 +82,12 @@ http://pro.boxdigital.org:8080/cambioVeoTv6a5X2/vjeKUhYYx5z3/181830
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Deportes",DAZN 2
 http://pro.boxdigital.org:8080/cambioVeoTv6a5X2/vjeKUhYYx5z3/181831
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Deportes",DAZN 3
-http://cincotv.org:25461/Fermand693/Toapa475/89730
+http://cincotv.org:25461/Fermand693/Toapa475/69249
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Cultura",Discovery
+http://m3u8.sytes.net:80/play/lvnWC0Kl-C2RpSoUoEx8_la42KXRti45fcQIb-UQEU0/ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Cultura",Discovery World
+http://m3u8.sytes.net:80/play/lvnWC0Kl-C2RpSoUoEx8_qJjH-j_GLUdlrrt8t0PKqk/ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Cultura",Discovery Teather
+http://m3u8.sytes.net:80/play/lvnWC0Kl-C2RpSoUoEx8_m4qNekS-h5GhGmSLYqpzrw/ts
+http://cincotv.org:25461/Fermand693/Toapa475/186501 ID
