@@ -67,15 +67,13 @@ http://redima.pro:8880/5555/5555/311
 http://redima.pro:8880/5555/5555/316
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Deportes",GOL TV
 http://redima.pro:8880/5555/5555/301
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Deportes",VTV
-http://cincotv.org:25461/Fermand693/Toapa475/186833
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Deportes",VTV+
 http://cincotv.org:25461/Fermand693/Toapa475/186834
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Deportes",Claro Sports
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Deportes",BeIN
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Deportes",DAZN LaLiga
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Deportes",DAZN LLiga
 http://cincotv.org:25461/Fermand693/Toapa475/89730
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Deportes",DAZN 1
 http://pro.boxdigital.org:8080/cambioVeoTv6a5X2/vjeKUhYYx5z3/181830
@@ -113,8 +111,6 @@ http://bantel.iptvperu.tv:1935/transcoder_t2/lovenature_t2_principal/playlist.m3
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",HBO
 http://cincotv.org:25461/Fermand693/Toapa475/24302
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",HBO HD
-http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaDzdrL7QTGr3JXfsqoZuVXg/ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",HBO 2
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85132
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",HBO +
@@ -130,9 +126,9 @@ http://cincotv.org:25461/Fermand693/Toapa475/186496
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",HBO XTREM
 http://cincotv.org:25461/Fermand693/Toapa475/186493
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",STUDIO UNIVERSAL
-http://bantel.iptvperu.tv:1935/transcoderip/studiouniversal_t5.stream/chunks.m3u8
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaLSXEJzNif8QE28eAhgd4ws/ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",UNIVERSAL TV
-http://bantel.iptvperu.tv:1935/transcoderip/universalchannel_t5.stream/playlist.m3u8
+http://m3u8.sytes.net:80/play/lvnWC0Kl-C2RpSoUoEx8_jSo0JtzdQutMqeKWdExbA8/ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",UNIVERSAL PREMIERE
 http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaC0m3skg3Isskt2DQ5NxsPY/ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",UNIVERSAL COMEDY
@@ -146,7 +142,7 @@ http://bantel.iptvperu.tv:1935/transcoderip/StarChannel_t2.stream/chunks.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",GOLDEN
 http://cincotv.org:25461/Fermand693/Toapa475/24301
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",GOLDEN EDGE
-http://cincotv.org:25461/Fermand693/Toapa475/186490
+https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10278.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",GOLDEN PREMIERE
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",GOLDEN PLUS
@@ -161,18 +157,18 @@ https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85193
 http://cincotv.org:25461/Fermand693/Toapa475/186457
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",MARVEL TV
 http://cincotv.org:25461/Fermand693/Toapa475/24496
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",DISNEY CHANEL
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",DISNEY TV
 http://cincotv.org:25461/Fermand693/Toapa475/24490
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",PARAMOUNT NET
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85152
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",TNT
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85164
+http://170.82.37.21:8000/play/a03a/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",TNT SERIES
 http://168.181.122.234:8000/play/a03i/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",AMC
 http://cincotv.org:25461/Fermand693/Toapa475/186463
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",AXN
-http://bantel.iptvperu.tv:1935/transcoder_t4/axn_t4/chunks.m3u8
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaLQfvJ50ahyt2rz1iG9Q87I/ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",CINEMAX
 http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaAaIChCUvJ_qnnvUF3YzzQA/ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",A&E
@@ -246,3 +242,4 @@ http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaJDdqcgbbwAwrC_N8sscvQ8/ts
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13379
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Musica",MTV
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/497
+
