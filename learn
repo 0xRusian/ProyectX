@@ -86,8 +86,6 @@ http://cincotv.org:25461/Fermand693/Toapa475/69249
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Cultura",Discovery
 http://m3u8.sytes.net:80/play/lvnWC0Kl-C2RpSoUoEx8_la42KXRti45fcQIb-UQEU0/ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Cultura",Discovery HD
-http://cincotv.org:25461/Fermand693/Toapa475/23757
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Cultura",Discovery World
 http://m3u8.sytes.net:80/play/lvnWC0Kl-C2RpSoUoEx8_qJjH-j_GLUdlrrt8t0PKqk/ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Cultura",Discovery Teather
@@ -102,13 +100,46 @@ http://cincotv.org:25461/Fermand693/Toapa475/186991
 http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaJBlvx9EBAkmDiKWFKn_EEM/ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Cultura",Discovery Familia
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13348
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Cultura" Nat Geo
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",DISCOVERY H&H MX
+http://cincotv.org:25461/Fermand693/Toapa475/186991
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Cultura",Nat Geo
 http://45.5.116.178:8000/play/a05p/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Cultura" Animal Planet
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Cultura",Animal Planet
 http://168.181.122.234:8000/play/a00z/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Cultura" History
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Cultura",History
 http://bantel.iptvperu.tv:1935/transcoder_t4/History_t4/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Cultura" History 2
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Cultura",History 2
 http://bantel.iptvperu.tv:1935/transcoderip/history2_t4/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Cultura" Love Nature
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Cultura",Love Nature
 http://bantel.iptvperu.tv:1935/transcoder_t2/lovenature_t2_principal/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",HBO
+http://cincotv.org:25461/Fermand693/Toapa475/24302
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",HBO HD
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaDzdrL7QTGr3JXfsqoZuVXg/ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",HBO 2
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85132
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",HBO +
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85134
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",HBO FAMILIA
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85136
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",HBO SIGNATURE
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85138
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",HBO POP
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85141
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",HBO MUNDO
+http://cincotv.org:25461/Fermand693/Toapa475/186496
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",HBO XTREM
+http://cincotv.org:25461/Fermand693/Toapa475/186493
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",STUDIO UNIVERSAL
+http://bantel.iptvperu.tv:1935/transcoderip/studiouniversal_t5.stream/chunks.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",UNIVERSAL TV
+http://bantel.iptvperu.tv:1935/transcoderip/universalchannel_t5.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",UNIVERSAL PREMIERE
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaC0m3skg3Isskt2DQ5NxsPY/ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",UNIVERSAL COMEDY
+http://cincotv.org:25461/Fermand693/Toapa475/186484
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",UNIVERSAL CINEMA
+http://cincotv.org:25461/Fermand693/Toapa475/186485
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",UNIVERSAL CRIME
+http://cincotv.org:25461/Fermand693/Toapa475/186487
