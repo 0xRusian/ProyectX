@@ -100,12 +100,10 @@ http://cincotv.org:25461/Fermand693/Toapa475/186991
 http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaJBlvx9EBAkmDiKWFKn_EEM/ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Cultura",Discovery Familia
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13348
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",DISCOVERY H&H MX
-http://cincotv.org:25461/Fermand693/Toapa475/186991
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Cultura",Nat Geo
-http://45.5.116.178:8000/play/a05p/index.m3u8
+http://cincotv.org:25461/Fermand693/Toapa475/186512
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Cultura",Animal Planet
-http://168.181.122.234:8000/play/a00z/index.m3u8
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/89221
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Cultura",History
 http://bantel.iptvperu.tv:1935/transcoder_t4/History_t4/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Cultura",History 2
@@ -122,7 +120,7 @@ https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85132
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",HBO +
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85134
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",HBO FAMILIA
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85136
+http://cincotv.org:25461/Fermand693/Toapa475/186482
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",HBO SIGNATURE
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85138
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",HBO POP
