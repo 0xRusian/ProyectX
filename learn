@@ -9,7 +9,7 @@ https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/feuYgRX.png" group-title="Nacionales",Panamericana
 https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/U5K2F2F.png" group-title="Nacionales",Exitosa
-http://cincotv.org:25461/Fermand693/Toapa475/139709
+https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/2H1ALro.png" group-title="Nacionales",TV Peru
 https://live-evg4.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/7uLOxub.png" group-title="Nacionales",TV Peru Noticias
@@ -17,7 +17,7 @@ https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/jBroGuj.png" group-title="Nacionales",Willax
 https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/SMh9v1A.png" group-title="Nacionales",ATV
-https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+http://cincotv.org:25461/Fermand693/Toapa475/102082
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/1KKS34I.png" group-title="Nacionales",ATV+
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/PbSF4HJ.png" group-title="Nacionales",IPE
@@ -28,7 +28,7 @@ https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Deportes",Nativa
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Deportes",L1 MAX
-http://elperrotv.online:80/Rolando/123456/1070264
+http://cincotv.org:25461/Fermand693/Toapa475/81984
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Deportes",GOL PERU
 http://cincotv.org:25461/Fermand693/Toapa475/186821
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Deportes",M Deportes
