@@ -209,7 +209,7 @@ http://cincotv.org:25461/Fermand693/Toapa475/186449
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 #EXTINF:-1 tvg-name="DW ESPAÑOL" tvg-logo="https://i.imgur.com/vnSbsn5.png" group-title="Internacional",DW ESPAÑOL
 http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaMFAeNe4ISZ4OfLBcNEQ1BU/ts
-#EXTINF:-1 tvg-name="https://i.imgur.com/6hU8eFk.png" tvg-logo="" group-title="Internacional",TELESUR
+#EXTINF:-1 tvg-name="TELESUR" tvg-logo="https://i.imgur.com/6hU8eFk.png" group-title="Internacional",TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 #EXTINF:-1 tvg-name="CNN ESPAÑOL" tvg-logo="https://i.imgur.com/8fCGrbq.png" group-title="Internacional",CNN ESPAÑOL
 http://m3u8.sytes.net:80/play/lvnWC0Kl-C2RpSoUoEx8_hMy5sDGWuQkhy7DOLkThQE/ts
@@ -233,7 +233,7 @@ http://cincotv.org:25461/Fermand693/Toapa475/110792
 http://177.234.230.226:8010/play/a01z/index.m3u8
 #EXTINF:-1 tvg-name="TLNOVELAS" tvg-logo="https://i.imgur.com/qyih3Sn.png" group-title="Novelas",TLENOVELAS
 http://cincotv.org:25461/Fermand693/Toapa475/28420
-#EXTINF:-1 tvg-name="https://i.imgur.com/YJjygZv.png" tvg-logo="TNT NOVELAS" group-title="Novelas",TNT NOVELAS
+#EXTINF:-1 tvg-name="TNT NOVELAS" tvg-logo="https://i.imgur.com/YJjygZv.png" group-title="Novelas",TNT NOVELAS
 http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaLyvz0lsJWyph7b3CmnXXzo/ts
 #EXTINF:-1 tvg-name="PASIONES" tvg-logo="https://i.imgur.com/zg4egg5.png" group-title="Novelas",PASIONES
 http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaJDdqcgbbwAwrC_N8sscvQ8/ts
