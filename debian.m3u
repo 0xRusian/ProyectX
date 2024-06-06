@@ -169,7 +169,7 @@ http://168.181.122.234:8000/play/a03i/index.m3u8
 http://cincotv.org:25461/Fermand693/Toapa475/186463
 #EXTINF:-1 tvg-name="AXN" tvg-logo="https://i.imgur.com/LO8TzVP.png" group-title="Peliculas",AXN
 http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaLQfvJ50ahyt2rz1iG9Q87I/ts
-#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://imgur.com/gallery/cn-ByD1uxW" group-title="Peliculas",CINEMAX
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://i.imgur.com/7ZRPSR0.png" group-title="Peliculas",CINEMAX
 http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaAaIChCUvJ_qnnvUF3YzzQA/ts
 #EXTINF:-1 tvg-name="A&E" tvg-logo="https://i.imgur.com/43F19Hw.png" group-title="Peliculas",A&E
 http://cincotv.org:25461/Fermand693/Toapa475/186462
