@@ -184,25 +184,25 @@ https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10273.m3u8
 #EXTINF:-1 tvg-name="SONY CINE" tvg-logo="https://i.imgur.com/DB0fYSY.png" group-title="Peliculas",SONY CINE
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Infantil",BITME
+#EXTINF:-1 tvg-name="BITME" tvg-logo="https://i.imgur.com/k31k3GK.png" group-title="Infantil",BITME
 http://cincotv.org:25461/Fermand693/Toapa475/186441
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Infantil",TOONCAST
+#EXTINF:-1 tvg-name="TOONCAST" tvg-logo="https://i.imgur.com/gXBDi8G.png" group-title="Infantil",TOONCAST
 http://cincotv.org:25461/Fermand693/Toapa475/186447
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Infantil",DISNEY CHANEL
+#EXTINF:-1 tvg-name="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/HaL4Ur7.png" group-title="Infantil",DISNEY CHANNEL
 http://m3u8.sytes.net:80/play/lvnWC0Kl-C2RpSoUoEx8_g0QgV3aDN0XeeovdXEJZqg/ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Infantil",DISNEY JR
+#EXTINF:-1 tvg-name="DISNEY JUNIOR" tvg-logo="https://i.imgur.com/lmSMHDR.png" group-title="Infantil",DISNEY JUNIOR
 http://m3u8.sytes.net:80/play/lvnWC0Kl-C2RpSoUoEx8_te5m7_pN1AA7PyeLgLhtuM/ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Infantil",CARTOON NETW
+#EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="https://i.imgur.com/a9WXjNH.png" group-title="Infantil",CARTOON NETWORK
 http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaNYy9vLMUheonvw_LUs5ztk/ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Infantil",CARTOONCITO
+#EXTINF:-1 tvg-name="CARTOONITO" tvg-logo="https://i.imgur.com/ufv3YEe.png" group-title="Infantil",CARTOONITO
 http://cincotv.org:25461/Fermand693/Toapa475/186442
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Infantil",DISCOVERY KIDS
+#EXTINF:-1 tvg-name="DISCOVERY KIDS" tvg-logo="https://i.imgur.com/EIBpu2I.png" group-title="Infantil",DISCOVERY KIDS
 http://190.61.55.186:1010/play/a001/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Infantil",NICKELODEON
+#EXTINF:-1 tvg-name="NICKELODEON" tvg-logo="https://i.imgur.com/DCgiudA.png" group-title="Infantil",NICKELODEON
 http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaHVAMe4oIJO__JfV_n_dWyI/ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Infantil",NICK JR
+#EXTINF:-1 tvg-name="NICK JUNIOR" tvg-logo="https://i.imgur.com/TfVqFbo.png" group-title="Infantil",NICK JR
 http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaBL8voQBQ1-2g9aOIVhA1ho/ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Infantil",NICK TEEN
+#EXTINF:-1 tvg-name="NICK TEEN" tvg-logo="https://i.imgur.com/ICRmWID.png" group-title="Infantil",NICK TEEN
 http://cincotv.org:25461/Fermand693/Toapa475/186449
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Internacional",RT ESPAÑOL
@@ -242,3 +242,4 @@ http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaJDdqcgbbwAwrC_N8sscvQ8/ts
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13379
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Musica",MTV
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/497
+
