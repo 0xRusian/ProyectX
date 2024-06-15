@@ -1,86 +1,31 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="LATINA" tvg-logo="https://i.imgur.com/GHFsYxm.png" group-title="Nacionales",LATINA
-https://live-evg4.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
+https://jireh-1-hls-video-pe-movistar.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream/chunks.m3u8
 #EXTINF:-1 tvg-name="RPP TV" tvg-logo="https://i.imgur.com/d1k9E8t.png" group-title="Nacionales",RPP TV
-http://cincotv.org:25461/Fermand693/Toapa475/186830
+http://daleplay.club:80/play/9miBE3EK2GtSfxQ5XWP9CQOe8X2qNIe3b_w8ep5whdiMEr_4qP92XASiWZcc5rDt/m3u8
 #EXTINF:-1 tvg-name="AMERICQ" tvg-logo="https://i.imgur.com/Y1xXQXq.png" group-title="Nacionales",AMERICA
 https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
 #EXTINF:-1 tvg-name="PANAMERICANA" tvg-logo="https://i.imgur.com/feuYgRX.png" group-title="Nacionales",PANAMERICANA
-https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
+https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:-1 tvg-name="EXITOSA" tvg-logo="https://i.imgur.com/U5K2F2F.png" group-title="Nacionales",EXITOSA
 https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8
 #EXTINF:-1 tvg-name="TV PERU" tvg-logo="https://i.imgur.com/2H1ALro.png" group-title="Nacionales",TV PERU
-https://live-evg4.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1 tvg-name="TV PERU NOTICIAS" tvg-logo="https://i.imgur.com/7uLOxub.png" group-title="Nacionales",TV PERU NOTICIAS
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1 tvg-name="WILLAX" tvg-logo="https://i.imgur.com/jBroGuj.png" group-title="Nacionales",WILLAX
-https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
+http://cincotv.org:25461/Fermand693/Toapa475/186824
 #EXTINF:-1 tvg-name="ATV" tvg-logo="https://i.imgur.com/SMh9v1A.png" group-title="Nacionales",ATV
-https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/208894.m3u8
 #EXTINF:-1 tvg-name="ATV+" tvg-logo="https://i.imgur.com/1KKS34I.png" group-title="Nacionales",ATV+
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-name="IPE" tvg-logo="https://i.imgur.com/Pb	SF4HJ.png" group-title="Nacionales",IPE
+#EXTINF:-1 tvg-name="IPE" tvg-logo="https://i.imgur.com/PbSF4HJ.png" group-title="Nacionales",IPE
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
-
-#EXTINF:-1 tvg-name="OVACION" tvg-logo="https://i.imgur.com/O11aFWb.png" group-title="Deportes",OVACION
-https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 tvg-name="NATIVA" tvg-logo="https://i.imgur.com/OVqRgz7.png" group-title="Deportes",NATIVA
-https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="L1 MAX" tvg-logo="https://i.imgur.com/In6pry9.png" group-title="Deportes",L1 MAX
-http://cincotv.org:25461/Fermand693/Toapa475/81984
-#EXTINF:-1 tvg-name="GOL PERU" tvg-logo="https://i.imgur.com/wpnkCPD.png" group-title="Deportes",GOL PERU
-http://cincotv.org:25461/Fermand693/Toapa475/186821
-#EXTINF:-1 tvg-name="M DEPORTES" tvg-logo="https://i.imgur.com/cszob2j.png" group-title="Deportes",M Deportes
-http://cincotv.org:25461/Fermand693/Toapa475/186832
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://i.imgur.com/gMUesqN.png" group-title="Deportes",ESPN
-http://m3u8.sytes.net:80/play/lvnWC0Kl-C2RpSoUoEx8_s7Xf8RGbRynyI7Kxz2vg4s/ts
-#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/6UjKDhw.png" group-title="Deportes",ESPN 2
-http://m3u8.sytes.net:80/play/lvnWC0Kl-C2RpSoUoEx8_qNUm2L6ycip-f188W_Hljo/ts
-#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/z2Wy7ay.png" group-title="Deportes",ESPN 3
-http://m3u8.sytes.net:80/play/lvnWC0Kl-C2RpSoUoEx8_pu0k7CRcyw_2ZNf5sndfWM/ts
-#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/sQgZ4Yt.png" group-title="Deportes",ESPN 4
-http://m3u8.sytes.net:80/play/lvnWC0Kl-C2RpSoUoEx8_gqXFECOQgNUorGOBgcjTO0/ts
-#EXTINF:-1 tvg-name="ESPN PREMIUN" tvg-logo="https://i.imgur.com/KGokGkF.png" group-title="Deportes",ESPN PREMIUN
-http://m3u8.sytes.net:80/play/lvnWC0Kl-C2RpSoUoEx8_oyacXkARtaw7MrJLQuX7xk/ts
-#EXTINF:-1 tvg-name="FOX SPORTS" tvg-logo="https://i.imgur.com/a7qjy96.png" group-title="Deportes",FOX SPORTS
-http://m3u8.sytes.net:80/play/lvnWC0Kl-C2RpSoUoEx8_pRXK50Qhr1FLoYRtxtuqzY/ts
-#EXTINF:-1 tvg-name="FOX SPORTS 2" tvg-logo="https://i.imgur.com/a7CjOYG.png" group-title="Deportes",FOX SPORTS 2
-http://m3u8.sytes.net:80/play/lvnWC0Kl-C2RpSoUoEx8_vgtM4jf1l1TTSo_iwDddvU/ts
-#EXTINF:-1 tvg-name="FOX SPORTS 3" tvg-logo="https://i.imgur.com/YhPpRr5.png" group-title="Deportes",FOX SPORTS 3
-http://m3u8.sytes.net:80/play/lvnWC0Kl-C2RpSoUoEx8_leBZOTOJ8N1U7tOo5YB-NY/ts
-#EXTINF:-1 tvg-name="D SPORTS" tvg-logo="https://i.imgur.com/c4Ix1dV.png" group-title="Deportes",D SPORTS
-http://redima.pro:8880/5555/5555/576
-#EXTINF:-1 tvg-name="TNT SPORTS" tvg-logo="https://i.imgur.com/SbFM2HS.png" group-title="Deportes",TNT SPORTS
-http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaP_hnsyf--Ms9IN_q-su1lc/ts
-#EXTINF:-1 tvg-name="TYC SPORTS" tvg-logo="https://i.imgur.com/xI4vKXY.png" group-title="Deportes",TYC SPORTS
-http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaLILIolgnQXDZGtFgB3xoHI/ts
-#EXTINF:-1 tvg-name="TV PUBLICA" tvg-logo="https://i.imgur.com/Eqmjka7.png" group-title="Deportes",TV PUBLICA
-http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaDwKHwrQC9Fx3MruvJuXve4/ts
-#EXTINF:-1 tvg-name="TUDN" tvg-logo="https://i.imgur.com/rPOti59.png" group-title="Deportes",TUDN
-https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
-#EXTINF:-1 tvg-name="SPORTV" tvg-logo="https://i.imgur.com/yXEtb7R.png" group-title="Deportes",SporTV
-https://cr7v.short.gy/manoiptv/SporTV-HD/Index.m3u8
-#EXTINF:-1 tvg-name="ECDF" tvg-logo="https://i.imgur.com/z4fFc63.png" group-title="Deportes",ECDF
-http://redima.pro:8880/5555/5555/311
-#EXTINF:-1 tvg-name="WIN SPORTS+" tvg-logo=https://i.imgur.com/GZe576L.png"" group-title="Deportes",WIN SPORTS+
-http://redima.pro:8880/5555/5555/316
-#EXTINF:-1 tvg-name="GOL TV" tvg-logo="https://i.imgur.com/latJDtY.png" group-title="Deportes",GOL TV
-http://redima.pro:8880/5555/5555/301
-#EXTINF:-1 tvg-name="VTV+" tvg-logo="https://i.imgur.com/Z8338lm.png" group-title="Deportes",VTV+
-http://cincotv.org:25461/Fermand693/Toapa475/186834
-#EXTINF:-1 tvg-name="CLARO SPORTS" tvg-logo="https://i.imgur.com/69YYoK3.png" group-title="Deportes",CLARO SPORTS
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
-#EXTINF:-1 tvg-name="BEIN SPORTS" tvg-logo="https://i.imgur.com/BuenaFN.png" group-title="Deportes",BeIN Sports
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-name="DAZN LIGA" tvg-logo="https://i.imgur.com/RvQCGFL.png" group-title="Deportes",DAZN LIGA
-http://cincotv.org:25461/Fermand693/Toapa475/89730
-#EXTINF:-1 tvg-name="DAZN 1" tvg-logo="https://i.imgur.com/WyTsW3y.png" group-title="Deportes",DAZN 1
-http://pro.boxdigital.org:8080/cambioVeoTv6a5X2/vjeKUhYYx5z3/181830
-#EXTINF:-1 tvg-name="DAZN 2" tvg-logo="https://i.imgur.com/PymPlIr.png" group-title="Deportes",DAZN 2
-http://pro.boxdigital.org:8080/cambioVeoTv6a5X2/vjeKUhYYx5z3/181831
-#EXTINF:-1 tvg-name="DAZN 3" tvg-logo="https://i.imgur.com/8aacRW5.png" group-title="Deportes",DAZN 3
-http://cincotv.org:25461/Fermand693/Toapa475/69249
+#EXTINF:-1 tvg-name="GLOBAL TV" tvg-logo="https://i.imgur.com/ceNLDTv.png" group-title="",GLOBAL TV
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/296997.m3u8
+#EXTINF:-1 tvg-name="CANAL N" tvg-logo="https://i.imgur.com/8g7orsq.png" group-title="",CANAL N
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/208916.m3u8
 
 #EXTINF:-1 tvg-name="DISCOVERY" tvg-logo="https://i.imgur.com/jJfO2g6.png" group-title="Cultura",DISCOVERY
 http://m3u8.sytes.net:80/play/lvnWC0Kl-C2RpSoUoEx8_la42KXRti45fcQIb-UQEU0/ts
@@ -120,45 +65,43 @@ http://cincotv.org:25461/Fermand693/Toapa475/186482
 #EXTINF:-1 tvg-name="HBO SIGNATURE" tvg-logo="https://i.imgur.com/sRFCCjO.png" group-title="Peliculas",HBO SIGNATURE
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85138
 #EXTINF:-1 tvg-name="HBO POP" tvg-logo="https://i.imgur.com/zYNxudu.png" group-title="Peliculas",HBO POP
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85141
+http://cincotv.org:25461/Fermand693/Toapa475/186499
 #EXTINF:-1 tvg-name="HBO MUNDI" tvg-logo="https://i.imgur.com/TWWWeQp.png" group-title="Peliculas",HBO MUNDI
-http://cincotv.org:25461/Fermand693/Toapa475/186496
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85142
 #EXTINF:-1 tvg-name="HBO XTREME" tvg-logo="https://i.imgur.com/3C13LAb.png" group-title="Peliculas",HBO XTREME
 http://cincotv.org:25461/Fermand693/Toapa475/186493
 #EXTINF:-1 tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.imgur.com/PU2TbTb.png" group-title="Peliculas",STUDIO UNIVERSAL
-http://cincotv.org:25461/Fermand693/Toapa475/186488
+http://redima.pro:8880/5555/5555/445
 #EXTINF:-1 tvg-name="UNIVERSAL TV" tvg-logo="https://i.imgur.com/2X24Xl8.png" group-title="Peliculas",UNIVERSAL TV
 http://m3u8.sytes.net:80/play/lvnWC0Kl-C2RpSoUoEx8_jSo0JtzdQutMqeKWdExbA8/ts
 #EXTINF:-1 tvg-name="UNIVERSAL PREMIERE" tvg-logo="https://i.imgur.com/KYfHRKy.png" group-title="Peliculas",UNIVERSAL PREMIERE
-http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaC0m3skg3Isskt2DQ5NxsPY/ts
+https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10286.m3u8
 #EXTINF:-1 tvg-name="UNIVERSAL COMEDY" tvg-logo="https://i.imgur.com/RPANuYD.png" group-title="Peliculas",UNIVERSAL COMEDY
-http://cincotv.org:25461/Fermand693/Toapa475/186484
+http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaJb1YUpvgFKcAsQzR_ujlqQ/ts
 #EXTINF:-1 tvg-name="UNIVERSAL CINEMA" tvg-logo="https://i.imgur.com/NMjUAFJ.png" group-title="Peliculas",UNIVERSAL CINEMA
 http://cincotv.org:25461/Fermand693/Toapa475/186485
 #EXTINF:-1 tvg-name="UNIVERSAL CRIME" tvg-logo="https://i.imgur.com/n9M7RF4.png" group-title="Peliculas",UNIVERSAL CRIME
-http://cincotv.org:25461/Fermand693/Toapa475/186487
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85181.m3u8
 #EXTINF:-1 tvg-name="STAR CHANNEL" tvg-logo="https://i.imgur.com/cXOPA7B.png" group-title="Peliculas",STAR CHANNEL
 http://cincotv.org:25461/Fermand693/Toapa475/186489
 #EXTINF:-1 tvg-name="GOLDEN" tvg-logo="https://i.imgur.com/IfvFoFU.png" group-title="Peliculas",GOLDEN
-http://cincotv.org:25461/Fermand693/Toapa475/24301
+https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10277.m3u8 
 #EXTINF:-1 tvg-name="GOLDEN EDGE" tvg-logo="https://i.imgur.com/N67x2y0.png" group-title="Peliculas",GOLDEN EDGE
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10278.m3u8
 #EXTINF:-1 tvg-name="GOLDEN PREMIERE" tvg-logo="https://i.imgur.com/5Wvxxwr.png" group-title="Peliculas",GOLDEN PREMIERE
-https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+http://cincotv.org:25461/Fermand693/Toapa475/186479
 #EXTINF:-1 tvg-name="GOLDEN PLUS" tvg-logo="https://i.imgur.com/hkAYZEg.png" group-title="Peliculas",GOLDEN PLUS
-http://m3u8.sytes.net:80/play/lvnWC0Kl-C2RpSoUoEx8_vtrXmx1jOCe-fjcFypMb3U/ts
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85158.m3u8
 #EXTINF:-1 tvg-name="D PELICULA" tvg-logo="https://i.imgur.com/6TIss9B.png" group-title="Peliculas",D PELICULA
 http://cincotv.org:25461/Fermand693/Toapa475/24040
 #EXTINF:-1 tvg-name="CINECANAL" tvg-logo="https://i.imgur.com/E7lOgAa.png" group-title="Peliculas",CINECANAL
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85148
+http://cincotv.org:25461/Fermand693/Toapa475/186465
 #EXTINF:-1 tvg-name="SPACE" tvg-logo="https://i.imgur.com/2lsEgmr.png" group-title="Peliculas",SPACE
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85193
 #EXTINF:-1 tvg-name="WARNER TV" tvg-logo="https://i.imgur.com/TmGso7K.png" group-title="Peliculas",WARNER TV
-http://cincotv.org:25461/Fermand693/Toapa475/186457
+http://redima.pro:8880/5555/5555/361
 #EXTINF:-1 tvg-name="MARVEL" tvg-logo="https://i.imgur.com/k1kdY7e.png" group-title="Peliculas",MARVEL TV
 http://cincotv.org:25461/Fermand693/Toapa475/24496
-#EXTINF:-1 tvg-name="DISNEY" tvg-logo="https://i.imgur.com/KzldKQl.png" group-title="Peliculas",DISNEY TV
-http://cincotv.org:25461/Fermand693/Toapa475/24490
 #EXTINF:-1 tvg-name="PARAMOUNT NETWORK" tvg-logo="https://i.imgur.com/4Jb1Xrs.png" group-title="Peliculas",PARAMOUNT NETWORK
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85152
 #EXTINF:-1 tvg-name="TNT" tvg-logo="https://i.imgur.com/ylop46K.png" group-title="Peliculas",TNT
@@ -170,9 +113,9 @@ http://cincotv.org:25461/Fermand693/Toapa475/186463
 #EXTINF:-1 tvg-name="AXN" tvg-logo="https://i.imgur.com/LO8TzVP.png" group-title="Peliculas",AXN
 http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaLQfvJ50ahyt2rz1iG9Q87I/ts
 #EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://i.imgur.com/7ZRPSR0.png" group-title="Peliculas",CINEMAX
-http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaAaIChCUvJ_qnnvUF3YzzQA/ts
+http://cincotv.org:25461/Fermand693/Toapa475/186452
 #EXTINF:-1 tvg-name="A&E" tvg-logo="https://i.imgur.com/43F19Hw.png" group-title="Peliculas",A&E
-http://cincotv.org:25461/Fermand693/Toapa475/186462
+http://45.166.92.22:58001/play/a00p/index.m3u8
 #EXTINF:-1 tvg-name="FX" tvg-logo="https://i.imgur.com/mt8feol.png" group-title="Peliculas",FX
 http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaGt6AVz3gH8y0ThSzGv5DwM/ts
 #EXTINF:-1 tvg-name="COMEDY CENTRAL" tvg-logo="https://i.imgur.com/Vjy0vn9.png" group-title="Peliculas",COMEDY CENTRAL
@@ -183,61 +126,10 @@ http://cincotv.org:25461/Fermand693/Toapa475/126339
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10273.m3u8
 #EXTINF:-1 tvg-name="SONY CINE" tvg-logo="https://i.imgur.com/DB0fYSY.png" group-title="Peliculas",SONY CINE
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-name="BITME" tvg-logo="https://i.imgur.com/k31k3GK.png" group-title="Infantil",BITME
-http://cincotv.org:25461/Fermand693/Toapa475/186441
-#EXTINF:-1 tvg-name="TOONCAST" tvg-logo="https://i.imgur.com/gXBDi8G.png" group-title="Infantil",TOONCAST
-http://cincotv.org:25461/Fermand693/Toapa475/186447
-#EXTINF:-1 tvg-name="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/HaL4Ur7.png" group-title="Infantil",DISNEY CHANNEL
-http://m3u8.sytes.net:80/play/lvnWC0Kl-C2RpSoUoEx8_g0QgV3aDN0XeeovdXEJZqg/ts
-#EXTINF:-1 tvg-name="DISNEY JUNIOR" tvg-logo="https://i.imgur.com/lmSMHDR.png" group-title="Infantil",DISNEY JUNIOR
-http://m3u8.sytes.net:80/play/lvnWC0Kl-C2RpSoUoEx8_te5m7_pN1AA7PyeLgLhtuM/ts
-#EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="https://i.imgur.com/a9WXjNH.png" group-title="Infantil",CARTOON NETWORK
-http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaNYy9vLMUheonvw_LUs5ztk/ts
-#EXTINF:-1 tvg-name="CARTOONITO" tvg-logo="https://i.imgur.com/ufv3YEe.png" group-title="Infantil",CARTOONITO
-http://cincotv.org:25461/Fermand693/Toapa475/186442
-#EXTINF:-1 tvg-name="DISCOVERY KIDS" tvg-logo="https://i.imgur.com/EIBpu2I.png" group-title="Infantil",DISCOVERY KIDS
-http://190.61.55.186:1010/play/a001/index.m3u8
-#EXTINF:-1 tvg-name="NICKELODEON" tvg-logo="https://i.imgur.com/DCgiudA.png" group-title="Infantil",NICKELODEON
-http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaHVAMe4oIJO__JfV_n_dWyI/ts
-#EXTINF:-1 tvg-name="NICK JUNIOR" tvg-logo="https://i.imgur.com/TfVqFbo.png" group-title="Infantil",NICK JR
-http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaBL8voQBQ1-2g9aOIVhA1ho/ts
-#EXTINF:-1 tvg-name="NICK TEEN" tvg-logo="https://i.imgur.com/ICRmWID.png" group-title="Infantil",NICK TEEN
-http://cincotv.org:25461/Fermand693/Toapa475/186449
-
-#EXTINF:-1 tvg-name="RT ESPAÑOL" tvg-logo="https://i.imgur.com/vtDAHTZ.png" group-title="Internacional",RT ESPAÑOL
-https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
-#EXTINF:-1 tvg-name="DW ESPAÑOL" tvg-logo="https://i.imgur.com/vnSbsn5.png" group-title="Internacional",DW ESPAÑOL
-http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaMFAeNe4ISZ4OfLBcNEQ1BU/ts
-#EXTINF:-1 tvg-name="TELESUR" tvg-logo="https://i.imgur.com/6hU8eFk.png" group-title="Internacional",TELESUR
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
-#EXTINF:-1 tvg-name="CNN ESPAÑOL" tvg-logo="https://i.imgur.com/8fCGrbq.png" group-title="Internacional",CNN ESPAÑOL
-http://m3u8.sytes.net:80/play/lvnWC0Kl-C2RpSoUoEx8_hMy5sDGWuQkhy7DOLkThQE/ts
-#EXTINF:-1 tvg-name="CGTN ESPAÑOL" tvg-logo="https://i.imgur.com/BrYyEKl.png" group-title="Internacional",CGTN ESPAÑOL
-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 tvg-name="FOX NEWS" tvg-logo="https://i.imgur.com/znkVQkv.png" group-title="Internacional",FOX NEWS
-http://cincotv.org:25461/Fermand693/Toapa475/186805
-#EXTINF:-1 tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/mDw4pIT.png" group-title="Internacional",BBC NEWS
-http://cincotv.org:25461/Fermand693/Toapa475/186804
-
 #EXTINF:-1 tvg-name="EL GOURMET" tvg-logo="https://i.imgur.com/WUA3NY8.png" group-title="Cocina",EL GOURMET
 http://m3u8.sytes.net:80/play/lvnWC0Kl-C2RpSoUoEx8_l_bXQTfZtuub4hqxwCTHjg/ts
 #EXTINF:-1 tvg-name="FOOD NETWORK" tvg-logo="https://i.imgur.com/NleMMOr.png" group-title="Cocina",FOOD NETWORK
-http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaJmvmwdm-0PYWaT34dKqtms/ts
-
-#EXTINF:-1 tvg-name="TELEMUNDO" tvg-logo="https://i.imgur.com/sGBxbCj.png" group-title="Novelas",TELEMUNDO
-http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaDL62lQ-F_Ump3F20bGDucc/ts
-#EXTINF:-1 tvg-name="UNIVISION" tvg-logo="https://i.imgur.com/Y4krJQK.png" group-title="Novelas",UNIVISION
-http://cincotv.org:25461/Fermand693/Toapa475/110792
-#EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://i.imgur.com/c0a5IbK.png" group-title="Novelas",KANAL D
-http://177.234.230.226:8010/play/a01z/index.m3u8
-#EXTINF:-1 tvg-name="TLNOVELAS" tvg-logo="https://i.imgur.com/qyih3Sn.png" group-title="Novelas",TLENOVELAS
-http://cincotv.org:25461/Fermand693/Toapa475/28420
-#EXTINF:-1 tvg-name="TNT NOVELAS" tvg-logo="https://i.imgur.com/YJjygZv.png" group-title="Novelas",TNT NOVELAS
-http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaLyvz0lsJWyph7b3CmnXXzo/ts
-#EXTINF:-1 tvg-name="PASIONES" tvg-logo="https://i.imgur.com/zg4egg5.png" group-title="Novelas",PASIONES
-http://m3u8.sytes.net:80/play/32BKOan_cRpIIshXFE-WaJDdqcgbbwAwrC_N8sscvQ8/ts
-
+http://cincotv.org:25461/Fermand693/Toapa475/186437
 #EXTINF:-1 tvg-name="HGTV" tvg-logo="https://i.imgur.com/Q5i2I0M.png" group-title="Hogar",HGTV
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13379
 #EXTINF:-1 tvg-name="MTV" tvg-logo="https://i.imgur.com/jDq6bNX.png" group-title="Musica",MTV
