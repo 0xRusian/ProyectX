@@ -5,11 +5,11 @@ https://jireh-1-hls-video-pe-movistar.dps.live/hls-video/567ffde3fa319fadf3419ef
 #EXTINF:-1 tvg-name="RPP TV" tvg-logo="https://i.imgur.com/d1k9E8t.png" group-title="Nacionales",RPP TV
 http://daleplay.club:80/play/9miBE3EK2GtSfxQ5XWP9CQOe8X2qNIe3b_w8ep5whdiMEr_4qP92XASiWZcc5rDt/m3u8
 #EXTINF:-1 tvg-name="AMERICQ" tvg-logo="https://i.imgur.com/Y1xXQXq.png" group-title="Nacionales",AMERICA
-https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/208887.m3u8
 #EXTINF:-1 tvg-name="PANAMERICANA" tvg-logo="https://i.imgur.com/feuYgRX.png" group-title="Nacionales",PANAMERICANA
 https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:-1 tvg-name="EXITOSA" tvg-logo="https://i.imgur.com/U5K2F2F.png" group-title="Nacionales",EXITOSA
-https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/208904.m3u8
 #EXTINF:-1 tvg-name="TV PERU" tvg-logo="https://i.imgur.com/2H1ALro.png" group-title="Nacionales",TV PERU
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1 tvg-name="TV PERU NOTICIAS" tvg-logo="https://i.imgur.com/7uLOxub.png" group-title="Nacionales",TV PERU NOTICIAS
