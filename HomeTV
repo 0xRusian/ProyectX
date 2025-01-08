@@ -1,0 +1,153 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="LATINA" tvg-logo="https://i.imgur.com/GHFsYxm.png" group-title="Nacionales",LATINA
+https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-name="RPP TV" tvg-logo="https://i.imgur.com/d1k9E8t.png" group-title="Nacionales",RPP TV
+http://tv.proyectox.vip:8080/JorgeMonta21/DH4xfGbcGE/8469
+#EXTINF:-1 tvg-name="AMERICA" tvg-logo="https://i.imgur.com/Y1xXQXq.png" group-title="Nacionales",AMERICA
+https://live-evg4.tv360.bitel.com.pe/eFTRyeMh8CNoYubYlSvwPw/1736459178/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-name="PANAMERICANA" tvg-logo="https://i.imgur.com/feuYgRX.png" group-title="Nacionales",PANAMERICANA
+https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-name="EXITOSA" tvg-logo="https://i.imgur.com/U5K2F2F.png" group-title="Nacionales",EXITOSA
+https://live-evg25.tv360.bitel.com.pe/bitel/exitosa/bitel/exitosa_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-name="TV PERU" tvg-logo="https://i.imgur.com/2H1ALro.png" group-title="Nacionales",TV PERU
+https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/bitel/tvperu_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-name="TV PERU NOTICIAS" tvg-logo="https://i.imgur.com/7uLOxub.png" group-title="Nacionales",TV PERU NOTICIAS
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
+#EXTINF:-1 tvg-name="WILLAX" tvg-logo="https://i.imgur.com/jBroGuj.png" group-title="Nacionales",WILLAX
+https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-name="ATV" tvg-logo="https://i.imgur.com/SMh9v1A.png" group-title="Nacionales",ATV
+https://live-evg25.tv360.bitel.com.pe/bitel/atv/bitel/atv_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-name="ATV+" tvg-logo="https://i.imgur.com/1KKS34I.png" group-title="Nacionales",ATV+
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-name="IPE" tvg-logo="https://i.imgur.com/PbSF4HJ.png" group-title="Nacionales",IPE
+https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
+#EXTINF:-1 tvg-name="GLOBAL TV" tvg-logo="https://i.imgur.com/ceNLDTv.png" group-title="Nacionales",GLOBAL TV
+https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-name="CANAL N" tvg-logo="https://i.imgur.com/8g7orsq.png" group-title="Nacionales",CANAL N
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/208917.m3u8
+#EXTINF:-1 tvg-name="M PLUS" tvg-logo="https://i.imgur.com/gCqLX51.png" group-title="Nacionales",M PLUS
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/562
+
+#EXTINF:-1 tvg-name="DISCOVERY" tvg-logo="https://i.imgur.com/jJfO2g6.png" group-title="Cultura",DISCOVERY
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13346
+#EXTINF:-1 tvg-name="DISCOVERY WORLD" tvg-logo="https://i.imgur.com/B6kedrV.png" group-title="Cultura",DISCOVERY WORLD
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13363
+#EXTINF:-1 tvg-name="DISCOVERY THEATER" tvg-logo="https://i.imgur.com/O7qfTLc.png" group-title="Cultura",DISCOVERY THEATER
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13358
+#EXTINF:-1 tvg-name="DISCOVERY ID" tvg-logo="https://i.imgur.com/uYAO0jg.png" group-title="Cultura",DISCOVERY ID
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13353
+#EXTINF:-1 tvg-name="DISCOVERY SCI" tvg-logo="https://i.imgur.com/okhmwyT.png" group-title="Cultura",DISCOVERY SCI
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13356
+#EXTINF:-1 tvg-name="DISCOVERY H&H" tvg-logo="https://i.imgur.com/GTcsHhf.png" group-title="Cultura",DISCOVERY H&H
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13351
+#EXTINF:-1 tvg-name="DISCOVERY TURBO" tvg-logo="https://i.imgur.com/MU8QOJb.png" group-title="Cultura",DISCOVERY TURBO
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13360
+#EXTINF:-1 tvg-name="DISCOVERY FAMILIA" tvg-logo="https://i.imgur.com/jpb8f8p.png" group-title="Cultura",DISCOVERY FAMILIA
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13348
+#EXTINF:-1 tvg-name="HISTORY" tvg-logo="https://i.imgur.com/IeopPzX.png" group-title="Cultura",History
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13381
+#EXTINF:-1 tvg-name="HISTORY 2" tvg-logo="https://i.imgur.com/o2NPCoU.png" group-title="Cultura",History 2
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13384
+#EXTINF:-1 tvg-name="NAT GEO" tvg-logo="https://i.imgur.com/Ilrp02u.png" group-title="Cultura",NAT GEO
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13393
+#EXTINF:-1 tvg-name="NAT GEO MUNDO" tvg-logo="https://i.imgur.com/Tb5vBJA.png" group-title="Cultura",NAT GEO MUNDO
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/84898
+#EXTINF:-1 tvg-name="ANIMAL PLANET" tvg-logo="https://i.imgur.com/pDdhmPT.png" group-title="Cultura",ANIMAL PLANET
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13337
+#EXTINF:-1 tvg-name="LOVE NATURE" tvg-logo="https://i.imgur.com/UphYLCd.png" group-title="Cultura",LOVE NATURE
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13387
+
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://i.imgur.com/pPWabui.png" group-title="Peliculas",HBO
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85130
+#EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://i.imgur.com/bexDZMd.png" group-title="Peliculas",HBO 2
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85133
+#EXTINF:-1 tvg-name="HBO+" tvg-logo="https://i.imgur.com/01XOSUb.png" group-title="Peliculas",HBO+
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85135
+#EXTINF:-1 tvg-name="HBO FAMILY" tvg-logo="https://i.imgur.com/f9KobOM.png" group-title="Peliculas",HBO FAMILY
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85137
+#EXTINF:-1 tvg-name="HBO SIGNATURE" tvg-logo="https://i.imgur.com/sRFCCjO.png" group-title="Peliculas",HBO SIGNATURE
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85138
+#EXTINF:-1 tvg-name="HBO POP" tvg-logo="https://i.imgur.com/zYNxudu.png" group-title="Peliculas",HBO POP
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85141
+#EXTINF:-1 tvg-name="HBO MUNDI" tvg-logo="https://i.imgur.com/TWWWeQp.png" group-title="Peliculas",HBO MUNDI
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85142
+#EXTINF:-1 tvg-name="HBO XTREME" tvg-logo="https://i.imgur.com/3C13LAb.png" group-title="Peliculas",HBO XTREME
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85144
+#EXTINF:-1 tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.imgur.com/PU2TbTb.png" group-title="Peliculas",STUDIO UNIVERSAL
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85192
+#EXTINF:-1 tvg-name="UNIVERSAL TV" tvg-logo="https://i.imgur.com/2X24Xl8.png" group-title="Peliculas",UNIVERSAL TV
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85174
+#EXTINF:-1 tvg-name="UNIVERSAL PREMIERE" tvg-logo="https://i.imgur.com/KYfHRKy.png" group-title="Peliculas",UNIVERSAL PREMIERE
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85175
+#EXTINF:-1 tvg-name="UNIVERSAL COMEDY" tvg-logo="https://i.imgur.com/RPANuYD.png" group-title="Peliculas",UNIVERSAL COMEDY
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85179.m3u8
+#EXTINF:-1 tvg-name="UNIVERSAL CINEMA" tvg-logo="https://i.imgur.com/NMjUAFJ.png" group-title="Peliculas",UNIVERSAL CINEMA
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85177
+#EXTINF:-1 tvg-name="UNIVERSAL CRIME" tvg-logo="https://i.imgur.com/n9M7RF4.png" group-title="Peliculas",UNIVERSAL CRIME
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85181
+#EXTINF:-1 tvg-name="SPACE" tvg-logo="https://i.imgur.com/2lsEgmr.png" group-title="Peliculas",SPACE
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85193
+#EXTINF:-1 tvg-name="GOLDEN" tvg-logo="https://i.imgur.com/IfvFoFU.png" group-title="Peliculas",GOLDEN
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85155
+#EXTINF:-1 tvg-name="GOLDEN EDGE" tvg-logo="https://i.imgur.com/N67x2y0.png" group-title="Peliculas",GOLDEN EDGE
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85156
+#EXTINF:-1 tvg-name="GOLDEN PREMIERE" tvg-logo="https://i.imgur.com/5Wvxxwr.png" group-title="Peliculas",GOLDEN PREMIERE
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85160
+#EXTINF:-1 tvg-name="GOLDEN PLUS" tvg-logo="https://i.imgur.com/hkAYZEg.png" group-title="Peliculas",GOLDEN PLUS
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85158
+#EXTINF:-1 tvg-name="PARAMOUNT NETWORK" tvg-logo="https://i.imgur.com/4Jb1Xrs.png" group-title="Peliculas",PARAMOUNT NETWORK
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85152
+#EXTINF:-1 tvg-name="CINECANAL" tvg-logo="https://i.imgur.com/E7lOgAa.png" group-title="Peliculas",CINECANAL
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85148
+#EXTINF:-1 tvg-name="STAR CHANNEL" tvg-logo="https://i.imgur.com/cXOPA7B.png" group-title="Peliculas",STAR CHANNEL
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85146
+#EXTINF:-1 tvg-name="WARNER TV" tvg-logo="https://i.imgur.com/TmGso7K.png" group-title="Peliculas",WARNER TV
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85170
+#EXTINF:-1 tvg-name="TNT" tvg-logo="https://i.imgur.com/ylop46K.png" group-title="Peliculas",TNT
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85165
+#EXTINF:-1 tvg-name="TNT SERIES" tvg-logo="https://i.imgur.com/0qUVGWN.png" group-title="Peliculas",TNT SERIES
+http://168.181.122.234:8000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-name="AMC" tvg-logo="https://i.imgur.com/uELa7FR.png" group-title="Peliculas",AMC
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85167
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://i.imgur.com/LO8TzVP.png" group-title="Peliculas",AXN
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85162
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://i.imgur.com/7ZRPSR0.png" group-title="Peliculas",CINEMAX
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85151
+#EXTINF:-1 tvg-name="A&E" tvg-logo="https://i.imgur.com/43F19Hw.png" group-title="Peliculas",A&E
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/89277
+#EXTINF:-1 tvg-name="FX" tvg-logo="https://i.imgur.com/mt8feol.png" group-title="Peliculas",FX
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85185
+#EXTINF:-1 tvg-name="SONY MOVIES" tvg-logo="https://i.imgur.com/i3bWqTX.png" group-title="Peliculas",SONY MOVIES
+http://masterplaycol.club:8080/live/Martv1971/G5cSzPMeRUuH/293524.m3u
+#EXTINF:-1 tvg-name="SONY CHANEL" tvg-logo="https://i.imgur.com/z3TZQV0.png" group-title="Peliculas",SONY CHANEL
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13508
+#EXTINF:-1 tvg-name="SONY CINE" tvg-logo="https://i.imgur.com/DB0fYSY.png" group-title="Peliculas",SONY CINE
+http://masterplaycol.club:8080/live/Martv1971/G5cSzPMeRUuH/586944.m3u
+#EXTINF:-1 tvg-name="COMEDY CENTRAL" tvg-logo="https://i.imgur.com/Vjy0vn9.png" group-title="Peliculas",COMEDY CENTRAL
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/354031
+#EXTINF:-1 tvg-name="MARVEL" tvg-logo="https://i.imgur.com/k1kdY7e.png" group-title="Peliculas",MARVEL TV
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/315429
+#EXTINF:-1 tvg-name="D PELICULA" tvg-logo="https://i.imgur.com/6TIss9B.png" group-title="Peliculas",D PELICULA
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85199
+
+#EXTINF:-1 tvg-name="EL GOURMET" tvg-logo="https://i.imgur.com/WUA3NY8.png" group-title="Cocina",EL GOURMET
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/202032
+#EXTINF:-1 tvg-name="FOOD NETWORK" tvg-logo="https://i.imgur.com/NleMMOr.png" group-title="Cocina",FOOD NETWORK
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13374
+
+#EXTINF:-1 tvg-name="PASIONES" tvg-logo="https://i.imgur.com/zg4egg5.png" group-title="Novelas",PASIONES
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13506
+#EXTINF:-1 tvg-name="TNT NOVELAS" tvg-logo="https://i.imgur.com/YJjygZv.png" group-title="Novelas",TNT NOVELAS
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13520
+#EXTINF:-1 tvg-name="TLNOVELAS" tvg-logo="https://i.imgur.com/qyih3Sn.png" group-title="Novelas",TLENOVELAS
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13524
+
+#EXTINF:-1 tvg-name="ATV" tvg-logo="https://i.imgur.com/SMh9v1A.png" group-title="Nacionales",ATV 2
+https://d19e55ehz2il4i.cloudfront.net/original.m3u8
+#EXTINF:-1 tvg-name="PANAMERICANA" tvg-logo="https://i.imgur.com/SMh9v1A.png" group-title="Nacionales",PANAMERICANA 2
+https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CqQGka0qZoKisPZ7E_wFCkRN5o8OYbGuXQtBuzeN2RDPUuHNCXAyOXmSjyZoI9zsT-1_f8AiJI4zyDGao_mEiQRryydBE0cfZkQqFjyKlu4GqxpyafkHfCRAA2WpzBYVddO-lsvBEb8binLql8RC4ZW9gFOACHEiVB2n7YCt76wdfYzqm_WKUOXJhRcSylLcnK6ZGiaJAxzuGZVq9BydBB5sCBhvQnYpRKDVsog4YUOtnD_N4W02ieOa7ut0SFYwsSEWP3tqO3ddxN1QqgBf1rgSX_FZJkfZAUM9YUV3PJuJ4-JyFX_34KPra9Dg-u9DgMbew7tcIa2TlTK-Ds2-F5THmkxlcwjAMsXnNxYXtF6VY_zcysb0YCeYl1Vnw5X-MCQ3qv4TWP9Zxd7eUhtNInj5Gh7H7R3HuCUyKmTlbaT4jI_vyVqw7BNtewNKsJ39qnRK_k2LHEXTuYdZSEIEEM05lWwIdRyg80uscOKs0rAQ52ZUz2T0vH5mLkZL7cpmIXCcFUFTsLFj2YjrrGrTBubRj5I6gWy4VK0Eqdm_bJXC8IlUvJICgqlRqKhhDGuvBQoRh69zZ-ezARlXWubbV2rKvuy722ZwFv_QdEY3W4WphZMz2KvHH3bWcTXkmVdJ4NpF5ATkkam2fhEYBsfmCEqcB1zpahy7c8OITlgnX55d9T0Cyg3uqttit7tuZbGjSHNf6dF5HWRHJdE3wWfx3YhUY34ctg1UejLirCW9TdLkvytaSZ2gTVQinh_B0P0o7KJ-mCQPVvcw4kGD8GxMhSSCDNlj94P97WyQEMxp2zA60PeqSG7hquzVDQBJzn0Crgoq9vWHVAXGhUvj6mTv2vLEJZR3iKtkD9z2DBbfc8TheSFTPdzxqYhtlHaFAY58d8T81JVVoJhvNddfUspqjbCaFeCNuczuGvJKYig7VaTYCwP7lkR4jd014NbyvV-A8svaQ_8J0Ubgd5c3E723vxOSwv0mukPGbe2KB88Bxlab7K_g_cN3HtBC_OmVImUAxG_MzNTsx4LZilRfu5rmGJKeg8gatnB0kUyxiL7TsIDKFx2Lg3XJGgxnDxkceG33LEoy8DQgASoJdXMtZWFzdC0xMNoJ.m3u8
+#EXTINF:-1 tvg-name="LATINA" tvg-logo="https://i.imgur.com/GHFsYxm.png" group-title="Nacionales",LATINA 2
+https://jireh-4-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream0/chunks.m3u8?dpssid=b22017866313677ef4ada5800&sid=ba5t1l1xb2919592851677ef4ae6527a&ndvc=0
+#EXTINF:-1 tvg-name="AMERICA" tvg-logo="https://i.imgur.com/Y1xXQXq.png" group-title="Nacionales",AMERICA 2
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/208885
