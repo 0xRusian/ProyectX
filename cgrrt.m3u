@@ -2,23 +2,23 @@
 
 #EXTINF:-1 tvg-name="LATINA" tvg-logo="https://i.imgur.com/7n4JcEW.png" group-title="Nacionales",LATINA
 https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_source/chunks.m3u8
-#EXTINF:-1 tvg-name="RPP TV" tvg-logo="https://i.imgur.com/d1k9E8t.png" group-title="Nacionales",RPP TV
-http://tv.proyectox.vip:8080/JorgeMonta21/DH4xfGbcGE/8469
+#EXTINF:-1 tvg-name="RPP TV" tvg-logo="https://i.imgur.com/ElEjU8g.png" group-title="Nacionales",RPP TV
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/208900.m3u8
 #EXTINF:-1 tvg-name="AMERICA" tvg-logo="https://i.imgur.com/iADsgyB.png" group-title="Nacionales",AMERICA
 https://live-evg4.tv360.bitel.com.pe/zF85XWyVEjkFo3sZ9bwaSg/1736555703/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
-#EXTINF:-1 tvg-name="PANAMERICANA" tvg-logo="https://i.imgur.com/feuYgRX.png" group-title="Nacionales",PANAMERICANA
+#EXTINF:-1 tvg-name="PANAMERICANA" tvg-logo="https://i.imgur.com/XAJ68I2.png" group-title="Nacionales",PANAMERICANA
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8
-#EXTINF:-1 tvg-name="EXITOSA" tvg-logo="https://i.imgur.com/U5K2F2F.png" group-title="Nacionales",EXITOSA
+#EXTINF:-1 tvg-name="EXITOSA" tvg-logo="https://i.imgur.com/qcFeBTz.png" group-title="Nacionales",EXITOSA
 https://live-evg25.tv360.bitel.com.pe/bitel/exitosa/bitel/exitosa_ori_source/chunks.m3u8
-#EXTINF:-1 tvg-name="TV PERU" tvg-logo="https://i.imgur.com/2H1ALro.png" group-title="Nacionales",TV PERU
+#EXTINF:-1 tvg-name="TV PERU" tvg-logo="https://i.imgur.com/oYD5kzU.png" group-title="Nacionales",TV PERU
 https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/bitel/tvperu_ori_source/chunks.m3u8
-#EXTINF:-1 tvg-name="TV PERU NOTICIAS" tvg-logo="https://i.imgur.com/7uLOxub.png" group-title="Nacionales",TV PERU NOTICIAS
+#EXTINF:-1 tvg-name="TV PERU NOTICIAS" tvg-logo="https://i.imgur.com/ykoPy1T.png" group-title="Nacionales",TV PERU NOTICIAS
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
-#EXTINF:-1 tvg-name="WILLAX" tvg-logo="https://i.imgur.com/jBroGuj.png" group-title="Nacionales",WILLAX
+#EXTINF:-1 tvg-name="WILLAX" tvg-logo="https://i.imgur.com/IsFYiFB.png" group-title="Nacionales",WILLAX
 https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_source/chunks.m3u8
-#EXTINF:-1 tvg-name="ATV" tvg-logo="https://i.imgur.com/SMh9v1A.png" group-title="Nacionales",ATV
+#EXTINF:-1 tvg-name="ATV" tvg-logo="https://i.imgur.com/xZp9YM2.png" group-title="Nacionales",ATV
 https://live-evg25.tv360.bitel.com.pe/bitel/atv/bitel/atv_ori_source/chunks.m3u8
-#EXTINF:-1 tvg-name="ATV+" tvg-logo="https://i.imgur.com/1KKS34I.png" group-title="Nacionales",ATV+
+#EXTINF:-1 tvg-name="ATV+" tvg-logo="https://i.imgur.com/DG4Zczk.png" group-title="Nacionales",ATV+
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-name="IPE" tvg-logo="https://i.imgur.com/PbSF4HJ.png" group-title="Nacionales",IPE
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
