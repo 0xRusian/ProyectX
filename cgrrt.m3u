@@ -20,6 +20,8 @@ https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_source/chunk
 https://live-evg25.tv360.bitel.com.pe/bitel/atv/bitel/atv_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-name="ATV+" tvg-logo="https://i.imgur.com/DG4Zczk.png" group-title="Nacionales",ATV+
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-name="ATV SUR" tvg-logo="https://i.imgur.com/DG4Zczk.png" group-title="Nacionales",ATV SUR
+https://live-evg25.tv360.bitel.com.pe/bitel/atvsur/chunks.m3u8
 #EXTINF:-1 tvg-name="IPE" tvg-logo="https://i.imgur.com/MUlqXSG.png" group-title="Nacionales",IPE
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 #EXTINF:-1 tvg-name="GLOBAL TV" tvg-logo="https://i.imgur.com/dbzbzNp.png" group-title="Nacionales",GLOBAL TV
