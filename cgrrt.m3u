@@ -129,7 +129,7 @@ https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/786287.m3u8
 #EXTINF:-1 tvg-name="SONY CHANEL" tvg-logo="https://i.imgur.com/z3TZQV0.png" group-title="Peliculas",SONY CHANEL
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/784805.m3u8
 #EXTINF:-1 tvg-name="SONY CINE" tvg-logo="https://i.imgur.com/DB0fYSY.png" group-title="Peliculas",SONY CINE
-http://masterplaycol.club:8080/live/Martv1971/G5cSzPMeRUuH/586944.m3u
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/784804.m3u8
 #EXTINF:-1 tvg-name="COMEDY CENTRAL" tvg-logo="https://i.imgur.com/Vjy0vn9.png" group-title="Peliculas",COMEDY CENTRAL
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/354031.m3u8
 #EXTINF:-1 tvg-name="MARVEL" tvg-logo="https://i.imgur.com/k1kdY7e.png" group-title="Peliculas",MARVEL TV
@@ -154,6 +154,8 @@ https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13505.m3u8
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/784780.m3u8
 #EXTINF:-1 tvg-name="TLNOVELAS" tvg-logo="https://i.imgur.com/qyih3Sn.png" group-title="Novelas",TLENOVELAS
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/135234.m3u8
+#EXTINF:-1 tvg-name="TLNOVELAS" tvg-logo="https://i.imgur.com/qyih3Sn.png" group-title="Novelas",SONY NOVELAS
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13512.m3u8
 
 #EXTINF:-1 tvg-name="ATV" tvg-logo="https://i.imgur.com/SMh9v1A.png" group-title="Nacionales",ATV 2
 https://d19e55ehz2il4i.cloudfront.net/original.m3u8
