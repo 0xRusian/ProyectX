@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-name="LATINA" tvg-logo="https://i.imgur.com/7n4JcEW.png" group-title="Nacionales",LATINA
 https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-name="RPP TV" tvg-logo="https://i.imgur.com/ElEjU8g.png" group-title="Nacionales",RPP TV
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/208900.m3u8
+https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio
 #EXTINF:-1 tvg-name="AMERICA" tvg-logo="https://i.imgur.com/iADsgyB.png" group-title="Nacionales",AMERICA
 https://live-evg1.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-name="PANAMERICANA" tvg-logo="https://i.imgur.com/XAJ68I2.png" group-title="Nacionales",PANAMERICANA
@@ -32,13 +32,13 @@ https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/208917.m3u8
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/562.m3u8
 
 #EXTINF:-1 tvg-name="DISCOVERY" tvg-logo="https://i.imgur.com/jJfO2g6.png" group-title="Cultura",DISCOVERY
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/784583.m3u8
+http://190.216.158.199:8000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-name="DISCOVERY WORLD" tvg-logo="https://i.imgur.com/B6kedrV.png" group-title="Cultura",DISCOVERY WORLD
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/784596.m3u8
+http://181.78.27.128:8000/play/a02n/index.m3u8
 #EXTINF:-1 tvg-name="DISCOVERY THEATER" tvg-logo="https://i.imgur.com/O7qfTLc.png" group-title="Cultura",DISCOVERY THEATER
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/784592.m3u8
+http://clubtv.link/jun27/phpcode/lista1.php?c=a02l&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 tvg-name="DISCOVERY ID" tvg-logo="https://i.imgur.com/uYAO0jg.png" group-title="Cultura",DISCOVERY ID
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/784589.m3u8
+http://clubtv.link/jun27/phpcode/lista0.php?c=18&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 tvg-name="DISCOVERY SCI" tvg-logo="https://i.imgur.com/okhmwyT.png" group-title="Cultura",DISCOVERY SCI
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/784590.m3u8
 #EXTINF:-1 tvg-name="DISCOVERY H&H" tvg-logo="https://i.imgur.com/GTcsHhf.png" group-title="Cultura",DISCOVERY H&H
